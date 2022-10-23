@@ -18,12 +18,15 @@ count =count + 2
 count =count + 2
 print("Total is",count)
 
-
+#Write the code to put 4 into a variable called 'item1'. Then put 6 into a variable called 'item2'.
+#Then write an instruction to add the two variable values together and put the answer into a variable ‘item3‘.
 item1 = 4
 item2 = 6
 item3 = item1+item2
 print("total=",item3)
 
+#A meal costs £56.  Write the code to set 56 into a variable.
+#Then multiply whatever is in the variable by 1/10 to work out the 10% tip (store the answer in a variable)
 meal = 56
 tip = meal/10
 print( "10% tip is=", tip)
